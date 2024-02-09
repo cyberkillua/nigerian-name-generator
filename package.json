@@ -1,0 +1,11 @@
+{
+  "name": "nigerian-names-generator",
+  "version": "1.0.0",
+  "description": "A package that generates nigerian names",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alimi Moshood",
+  "license": "ISC"
+}
