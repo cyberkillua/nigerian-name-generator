@@ -1,11 +1,22 @@
 {
   "name": "nigerian-names-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package that generates nigerian names",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Alimi Moshood",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyberkillua/nigerian-name-generator.git"
+  },
+  "keywords": [
+    "nigerian-names"
+  ],
+  "bugs": {
+    "url": "https://github.com/cyberkillua/nigerian-name-generator/issues"
+  },
+  "homepage": "https://github.com/cyberkillua/nigerian-name-generator#readme"
 }

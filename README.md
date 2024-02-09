@@ -9,7 +9,7 @@ The Nigerian Name Generator is a Node.js package that allows users to generate N
 You can install the package via npm:
 
 ```bash
-npm install nigerian-name-generator
+npm install nigerian-names-generator
 ```
 
 ## Usage
@@ -19,7 +19,7 @@ npm install nigerian-name-generator
 To generate a random Nigerian name, you can use the `generateRandomName()` function:
 
 ```javascript
-const { generateRandomName } = require("nigerian-name-generator");
+const { generateRandomName } = require("nigerian-names-generator");
 
 const randomName = generateRandomName();
 console.log(randomName); // Output: e.g., "Olufemi", "Chidubem", "Adewale", etc.
@@ -30,7 +30,7 @@ console.log(randomName); // Output: e.g., "Olufemi", "Chidubem", "Adewale", etc.
 To generate a full name by combining a random first name and last name, you can use the `generateFirstNameAndLastName()` function:
 
 ```javascript
-const { generateFirstNameAndLastName } = require("nigerian-name-generator");
+const { generateFirstNameAndLastName } = require("nigerian-names-generator");
 
 const fullName = generateFirstNameAndLastName();
 console.log(fullName); // Output: e.g., "Chinonso Odum", "Emeka Nwosu", "Folasade Lawal", etc.
